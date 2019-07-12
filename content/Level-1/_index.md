@@ -4,7 +4,7 @@ date: 2019-06-24T13:29:23+01:00
 draft: true
 weight: 10
 ---
-# Why Git?
+# Why Git? Why Not?
 
 Most Documentation teams use some kind of content versioning system to ensure that they keep track of changes and can roll back changes if need be. Content versioning software like Perforce or SVN generally use a repository on a network server that writers can check working copies of docs in and out of.
 
